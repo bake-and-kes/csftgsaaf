@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'ErvaEsra';
+src: url('../fonts/ErvaEsra_Demo-SemiBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'ErvaEsra', sans-serif;
+}
+
+
+.title12{
+  font-family: cursive !important;
+}
+
+
+.title9{
+  font-family: 'Times New Roman', Times, serif !important;
+    padding: 2rem;
+    text-align: center;
+    color: #A38150;
+}
+
+.info-links a{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.footer-item span{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.modal-body h2, h3, button{
+    font-family: 'Times New Roman', Times, serif !important;
+}
