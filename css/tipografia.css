@@ -31,4 +31,18 @@ src: url('../fonts/ErvaEsra_Demo-SemiBold.ttf') format('truetype');
 }
 .modal-body h2, h3, button{
     font-family: 'Times New Roman', Times, serif !important;
+
+}
+.footer-bottom p{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.slogan {
+    display: inline-block;
+transform: skew(5deg); /* menos inclinada */
+font-family: "Brush Script MT", cursive;
+font-style: italic;
+font-size: 1.5em;
+padding: 15px;
+border-radius: 10px;
 }
